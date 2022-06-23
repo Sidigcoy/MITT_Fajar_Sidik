@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fajar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fajar\\.nuget\\packages"
+    ]
+  }
+}
